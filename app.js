@@ -9,4 +9,4 @@ const anios = 2022 - nacido;
 const mensaje = `Hola ${nombre} ${apellido}, tienes ${anios} años`  
 return mensaje
 }
-console.log(saludar(nombre, apellido, anios));
+console.log(saludar(nombre, apellido, nacido));
